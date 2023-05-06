@@ -1,3 +1,5 @@
+Live link : https://hassan-12-source.github.io/qr-code-component/
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
